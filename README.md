@@ -30,7 +30,6 @@ I am python learner from India, my favorite programing language is python,
 
 ##  📊 **Github Stats**
 
-[![github stats](https://github-readme-stats.vercel.app/api?username=HuntingBots&show_icons=true&theme=dark)](https://github.com/HuntingBots)
 </div>
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=HuntingBots&show_icons=true&hide_border=true&theme=tokyonight"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HuntingBots&theme=tokyonight&hide=batchfile">
 
@@ -39,3 +38,5 @@ I am python learner from India, my favorite programing language is python,
 
 
 [![Telegram](https://img.shields.io/badge/telegram-1b77FF.svg?style=for-the-badge&logo=telegram)](https://t.me/The_Ghost_Hunter)
+
+📧 [Mail Me](huntingbots.tg@gmail.com)
