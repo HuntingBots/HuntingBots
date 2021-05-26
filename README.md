@@ -39,4 +39,4 @@ I am python learner from India, my favorite programing language is python,
 
 [![Telegram](https://img.shields.io/badge/telegram-1b77FF.svg?style=for-the-badge&logo=telegram)](https://t.me/The_Ghost_Hunter)
 
-📧 [Mail Me](huntingbots.tg@gmail.com)
+📧 Email me : huntingbots.tg@gmail.com 
