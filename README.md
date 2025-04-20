@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 
 <div align="center">
-    <img src="https://img1.teletype.in/files/cf/1b/cf1b4726-5331-40f7-a521-ada7fa5a1a17.jpeg">
+    <img src="https://camo.githubusercontent.com/f950c0eb9b272478b2d846d5255e9f8f7c571d7a8d8aaae2ea80e43010a6f64b/68747470733a2f2f696d67312e74656c65747970652e696e2f66696c65732f63662f31622f63663162343732362d353333312d343066372d613532312d6164613766613561316131372e6a706567">
 </div>
 
 # Hello, it's me your The Ghost Hunter! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="45px">
